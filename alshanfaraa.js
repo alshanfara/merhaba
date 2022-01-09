@@ -1388,7 +1388,7 @@ z-index: 3;
 \
     width: 79%!important;
 \
-    margin-top: 75px!important;
+    margin-top: 40px!important;
 \
     margin-left: 45px!important;
 \
