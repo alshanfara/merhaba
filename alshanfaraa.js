@@ -1364,7 +1364,7 @@ visibility: collapse;
 \
 div#tlogins {
 \
-    background-image: url(https://mrkzgulfup.com/uploads/164122613168541.gif);
+    background-image: url(https://mrhba1.com/sico/1641768944827.jpg);
 \
     box-shadow: inset 0px 0px 5px rgb(255 255 255), 0 0 10px #ffffff8a!important;
 \
